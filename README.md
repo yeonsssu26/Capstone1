@@ -1,6 +1,6 @@
 ## 프로젝트 설명
-딥러닝을 활용하여 실시간으로 차량 번호판을 탐지하고 번호를 인식하는 시스템을 개발한다. 
-번호판 위치와 차량객체 탐지에는 YOLOv5 모델을, 글자인식에는 Focal Loss가 적용된 RetinaNet 모델을 사용하여 속도와 인식률을 높이는 것을 주 목표로 한다.
+![2-output1](https://user-images.githubusercontent.com/70676394/169948989-757f9f5d-4080-44bc-9200-6cca0732e76b.jpg)
+딥러닝을 활용하여 실시간으로 차량 번호판을 탐지하고 번호를 인식하는 시스템을 개발한다. 번호판 위치와 차량객체 탐지에는 YOLOv5 모델을, 글자인식에는 Focal Loss가 적용된 RetinaNet 모델을 사용하여 속도와 인식률을 높이는 것을 주 목표로 한다. 해당 repository는 Yolo V5를 활용한 번호판 detection에 대한 결과물이다.
 
 ## 시작하기
 ### Pretrained Checkpoints
